@@ -1,0 +1,5 @@
+# Oculta tudo
+* linguist-vendored
+
+# Exibe apenas C#
+*.cs linguist-vendored=false linguist-language=C#
